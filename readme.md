@@ -4,6 +4,8 @@
 ### By making this project i learnt lot about tailwind and dynamic nature of css.
 
 ### Time Required Around **20hrs**
+### Here Deployed Link of Project
+[RODE](https://unrivaled-scone-3459a8.netlify.app "RODE")
 
 ### Here **Screen-shots** of my project
 
@@ -20,6 +22,7 @@
 ![Screen-shots](images/Screenshot%20(169).png)
 
 ![Screen-shots](images/Screenshot%20(171).png)
+
 
 **FULL WEB-PAGE SCREEN-SHOT
 
