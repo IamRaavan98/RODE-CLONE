@@ -5,7 +5,7 @@
 
 ### Time Required Around **20hrs**
 ### Here Deployed Link of Project
-[RODE](https://unrivaled-scone-3459a8.netlify.app "RODE")
+[RODE](https://rode-rrunrivaled-scone-3459a8.netlify.app/)
 
 ### Here **Screen-shots** of my project
 
